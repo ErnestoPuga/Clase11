@@ -31,3 +31,10 @@ build/
 
 ### VS Code ###
 .vscode/
+
+*.env
+.env 
+**/serviceAccountkey.json
+
+##Path to the serviceAccountkey.json file
+back/app/src/main/resources/serviceAccountkey.json
